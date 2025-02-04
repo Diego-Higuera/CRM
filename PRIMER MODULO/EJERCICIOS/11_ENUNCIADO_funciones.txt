@@ -1,0 +1,14 @@
+Crear las siguientes funciones en SQL:
+
+1) Crear un código de cuatro letras en mayúsculas con las primeras letras de todos los productos de la tabla productos de la base de datos tienda.
+
+2) Crear un saludo para todos los empleados de la tabla empleados del tipo "Bienvenido nombreempleado".
+
+3) En la tabla proveedores, cambiar el texto "C/" de las calles de las direcciones por "calle".
+
+4) En la tabla ventas, calcular el importe de cada venta y aplicarle un redondeo a un entero.
+
+5) Mostrar el año de la fecha correspondiente a sumar seis meses a la fecha actual.
+
+
+

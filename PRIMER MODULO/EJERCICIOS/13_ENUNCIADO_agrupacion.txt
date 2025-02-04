@@ -1,0 +1,5 @@
+Con la base de datos tienda, crear las siguientes consultas SQL:
+
+1) Calcular el precio medio de los productos de cada proveedor en la tabla productos.
+
+2) ¿Cuántos productos tenemos en stock de cada precio en nuestra tabla productos?

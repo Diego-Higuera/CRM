@@ -1,0 +1,11 @@
+En la base de datos tienda que tenéis en la biblioteca virtual, crear las siguientes sentencias SQL:
+
+1) Con sentencias ALTER TABLE, especificar que todos los campos de la tabla empleados deben ser NOT NULL.
+
+2) Insertar un nuevo registro en la tabla empleados.
+
+3) Mostrar los registros de la tabla empleados que tengan un tiempo de servicio igual a tres.
+
+4) Borrar el registro que acabáis de insertar utilizando una cláusula WHERE.
+
+5) Actualizar todos los campos tiempo_servicio de todos los registros de la tabla empleados añadiéndoles un año.
