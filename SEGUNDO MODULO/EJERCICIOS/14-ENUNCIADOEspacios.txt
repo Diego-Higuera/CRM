@@ -1,0 +1,1 @@
+Crear una aplicación en Java que pida una cadena de texto al usuario y limpie los espacios innecesarios tanto al principio, como al final, como entre palabras. Una vez limpia la cadena, deberá mostrarse mediante JOptionPane.

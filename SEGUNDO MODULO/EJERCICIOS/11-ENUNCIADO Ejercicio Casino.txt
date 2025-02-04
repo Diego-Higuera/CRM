@@ -1,0 +1,15 @@
+Un casino quiere realizar un estudio sobre la aleatoriedad de alguno de sus juegos:
+
+1) Cree un array con 37 posiciones para hacer un recuento de la frecuencia con la que aparecen los distintos números de la ruleta (del 0 al 36).
+
+2) Simule la realización de 500 tiradas de prueba. Con un bucle recorra las 500 tiradas y genere en cada una de ellas un valor aleatorio entre 0 y 36. En cada tirada, el número aleatorio obtenido se utilizará para ir incrementando el valor almacenádo en el índice del mismo número del array del paso anterior. De esta manera, se irá realizando un recuento de las veces que aparece cada número.
+
+3) ¿Cuál es el o los números que han aparecido más veces? ¿Cuáles son los que menos?
+
+4) ¿Cuál es el valor promedio de apariciones de cada número? (por ejemplo, el 0 ha aparecido un 2.5% de las tiradas
+
+5) ¿El número 0 de la ruleta se encuentra por encima o por debajo de dicha media?
+
+6) ¿Cambian los resultados del punto 5 si se realizan 10.000 tiradas de muestra en lugar de 500?
+
+7) Repita el ejercicio anterior para el juego de los dados. En este caso, el juego consiste en arrojar dos dados (numerados del 1 al 6) y sumar el valor de ambos. Obsérvese, que en este caso, se deberá crear un array para almacenar los valores posibles de la simulación de tiradas de dos dados (del 2 al 12). Para simiplificar, se permite utilizar un array que incluya las posiciones 0 y 1, aunque no sean necesarias. Simule la realización de 500 tiradas de dos dados y repita todos los cálculos del ejercicio anterior.

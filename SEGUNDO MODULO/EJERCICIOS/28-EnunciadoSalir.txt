@@ -1,0 +1,3 @@
+Crear en Java una ventana que contenga un botón Salir. Tanto el cierre de la ventana como el clic en el botón Salir cerrarán la aplicación.
+
+Nota: el escuchador de los eventos clic es ActionListener, que no tiene adaptador puesto que sólo dispone de un método: actionPerformed().

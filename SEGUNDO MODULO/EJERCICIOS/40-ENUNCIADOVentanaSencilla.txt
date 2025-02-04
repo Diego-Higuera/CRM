@@ -1,0 +1,3 @@
+- El botón Cancel cierra la ventana. También se cierra con el botón cerrar de la ventana (x).
+
+- El botón OK comprueba si el nombre de usuario es "manolito" y la contraseña "1234". En caso afirmativo, muestra un mensaje del tipo. "Acceso autorizado". Si la casilla de verificación Remember password está activada se añade al mensaje "Recordar contraseña". Si la contraseña o el usuario no coinciden muestra un mensaje del tipo "El usuario o la contraseña no coinciden".

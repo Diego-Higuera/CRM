@@ -1,0 +1,15 @@
+1) Crear un array de tamaño 5 con valores enteros inventados. Si desconociéramos el tamaño del array, ¿cómo mostraríamos el primer valor y el último de dicho array?
+2) Repetir el ejercicio anterior con un array de dos dimensiones de 3 por 3. Mostrar sin utilizar las dimensiones conocidas el valor de la primera fila en la primera columna y el de la última fila-última columna.
+3) Ordenar el primer array y volver a mostrar el nuevo primer valor y el último. Comprobar que este método funciona pintando en la consola el contenido de dicho array una vez ordenado.
+4) ¿El valor 123 está en el array? ¿En qué posición?
+5) Crear un ArrayList para almacenar números de teléfono. Añadir 4 nuevos números. Mostrar nuevamente el primer y el último teléfono suponiendo que desconocemos el tamaño del ArrayList.
+6) ¿El número "666123456" está en el ArrayList? ¿En qué posición?
+7) Mostrar el contenido del ArrayList para comprobar los resultados del último apartado.
+8) Crear un ArrayList con el nombre de 5 ciudades.
+9) ¿Cuál es la primera letra de la primera y la última ciudades?
+10) Extraer las dos primeras letras de la primera y la última ciudad.
+11) ¿La primera y la segunda ciudades son iguales?
+12) ¿La primera o la última ciudad empiezan por "M"? Pasar antes los nombres de ciudad a mayúsculas para poder comparar correctamente.
+13) ¿Madrid se encuentra en la lista de ciudades? ¿En qué posición?
+14) Sustituir las letras "a" de la primera y de la última ciudad por asteriscos. ¡Ojo! Sustituir los valores en el ArrayList, no solo mostrarlos.
+

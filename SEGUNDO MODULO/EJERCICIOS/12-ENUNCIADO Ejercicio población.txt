@@ -1,0 +1,20 @@
+1) En una ciudad viven un número aleatorio de personas entre (8.000 y 15.000). Suponiendo que las edades de estas personas están comprendidas entre 0 y 100 años, cree un array de 101 posiciones para llevar el recuento de cuántas personas hay en la ciudad de cada una de las posibles edades.
+
+2) En un bucle, recorra uno a uno los habitantes de la ciudad y asígneles a cada uno una edad aleatoria (entre 0 y 100, recuerde). La edad que se obtenga en cada vuelta del bucle, servirá para ir incrementando en una unidad el número de personas de dicha edad que hay en la ciudad (el recuento, recuerde, se llevará en el array que se generó en el paso 1).
+
+3) ¿Cuál es la edad media de edad de la población?
+
+4) ¿Cuál es la edad máxima de los habitantes de la ciudad? ¿Cuántos habitantes hay de dicha edad?
+
+5) ¿Cuál es la edad mínima de los habitantes de la ciudad? ¿Cuántos habitantes hay de dicha edad?
+
+6) ¿Cuál es el número máximo de habitantes de una misma edad? ¿Cuál/cuáles son dichas edad/edades?
+
+7) ¿Cuál es el número mínimo de habitantes de una misma edad? ¿Cuál/cuáles son dichas edad/edades?
+
+8) En un posible sufragio, ¿cuántos habitantes habría en el censo electoral? (es decir, cuántos habitantes tienen una edad igual o superior a 18 años?
+
+9) ¿Hay alguna edad que no esté representada por ningún habitante de la ciudad? (por ejemplo, ningún habitante de la ciudad tiene 20 años ni 47 años). Indique cuál/cuáles.
+
+
+

@@ -1,0 +1,6 @@
+Palíndromo: Palabra o frase cuyas letras están dispuestas de tal manera que resulta la misma leída de izquierda a derecha que de derecha a izquierda; p. ej., anilina; dábale arroz a la zorra el abad.
+
+
+Crear un método que acepte como parámetro una cadena de caracteres, le elimine espacios, comas y demás símbolos de puntuación, cambie los acentos por sus letras sin acento corrrespondientes y diga si la frase es palíndromo o no.
+
+Véase: https://www.juegosdepalabras.com/palindromo/palindromo.html
